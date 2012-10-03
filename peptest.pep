@@ -1,5 +1,5 @@
 Br main,i
-.ASCII "Kyle Steere\x00" 
-main: STRO message,d
+message: .ASCII "Kyle Steere\x00" 
+main: STRO message,d 
 STOP 
 .end
